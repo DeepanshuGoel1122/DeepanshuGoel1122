@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @DeepanshuGoel1122
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 👋 Hi, I’m Deepanshu Goel
+- 🌱 I’m currently learning Web Development and Python.
 
 <!---
 DeepanshuGoel1122/DeepanshuGoel1122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
