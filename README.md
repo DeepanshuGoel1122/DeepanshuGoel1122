@@ -3,8 +3,8 @@
 
 ## -----------------------------------------------------
 <p align="left">
-<img alt="GitHub" title="GitHub" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/c.svg"><br>
-  <img alt="GitHub" title="GitHub" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/python.svg"><br>
+<img alt="GitHub" title="GitHub" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/c.svg">
+  <img alt="GitHub" title="GitHub" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/python.svg">
   <img alt="GitHub" title="GitHub" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/html5.svg">
   <img alt="GitHub" title="GitHub" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/css.svg">
   <img alt="GitHub" title="GitHub" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/javascript.svg">
