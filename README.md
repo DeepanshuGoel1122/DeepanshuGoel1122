@@ -8,10 +8,10 @@
 ### Connect With Me :
 <p align="left">
   <a href="https://www.linkedin.com/in/deepanshu-goel-dp/"><img alt="Linkedin" title="Linkedin" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/linkedin.svg"></a>
+  <a href="https://twitter.com/Dpdeepanshu1122"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/twitter.svg"></a>
+  <a href="https://www.instagram.com/deepanshu_goel_1122/"><img alt="Instagram" title="Instagram" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/instagram.svg"></a>
+  <a href="https://www.hackerrank.com/deepanshugoel111"><img alt="Hackerrank" title="Hackerrank" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/hackerrank.svg"></a>
   
-  <img alt="Twitter" title="Twitter" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/twitter.svg">
-  <img alt="Instagram" title="Instagram" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/instagram.svg">
-  <img alt="Hackerrank" title="Hackerrank" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/c.svg">
 </p>
 
 ### ------------------------------------------------------------------------------
@@ -27,8 +27,10 @@
   <img alt="visual studio code" title="VS Code" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/vs-code.svg">
 </p>
 
+### ------------------------------------------------------------------------------
 
-<h3 align="centre">My GitHub Stacts</h3>
+
+### My GitHub Stats
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api?username=DeepanshuGoel1122&show_icons=true&theme=radical" alt="DeepanshuGoel1122 GitHub Stats" /></p>
 <p><img align="centre" src="http://github-readme-streak-stats.herokuapp.com?user=DeepanshuGoel1122&theme=radical" alt="DeepanshuGoel1122 Streak" /></p>
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepanshuGoel1122&show_icons=true&theme=radical" alt="DeepanshuGoel1122 Top Languages"</p>
