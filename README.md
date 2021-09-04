@@ -1,8 +1,20 @@
 - 👋 Hi, I’m Deepanshu Goel
 - 🌱 I’m currently learning Web Development and Python.
 
-### -----------------------------------------------------
-<h3>Connect With Me :</h3>
+### -----------------------------------------------------------------------------
+
+<p><img src="https://komarev.com/ghpvc/?username=DeepanshuGoel1122" /></p>
+
+### Connect With Me :
+<p align="left">
+  <a href="https://www.linkedin.com/in/deepanshu-goel-dp/"><img alt="Linkedin" title="Linkedin" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/linkedin.svg"></a>
+  
+  <img alt="Twitter" title="Twitter" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/twitter.svg">
+  <img alt="Instagram" title="Instagram" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/instagram.svg">
+  <img alt="Hackerrank" title="Hackerrank" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/c.svg">
+</p>
+
+### ------------------------------------------------------------------------------
 
 ### Languages and Tools
 <p align="left">
