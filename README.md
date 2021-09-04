@@ -31,7 +31,7 @@
   <img alt="Jupyter Notebook" title="Jupyter Notebook" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/jupyter.svg">
   <img alt="Canva" title="Canva" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/canva.svg">
   <img alt="php" title="php" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/php.svg">
-  <img alt="Node js" title="Node js" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/node.svg">
+  <img alt="Node js" title="Node js" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/node-js.svg">
 </p>
 
 ### ------------------------------------------------------------------------------
