@@ -9,8 +9,10 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/deepanshu-goel-dp/"><img alt="Linkedin" title="Linkedin" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/linkedin.svg"></a>
   <a href="https://twitter.com/Dpdeepanshu1122"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/twitter.svg"></a>
-  <a href="https://www.instagram.com/deepanshu_goel_1122/"><img alt="Instagram" title="Instagram" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/instagram.svg"></a>
   <a href="https://www.hackerrank.com/deepanshugoel111"><img alt="Hackerrank" title="Hackerrank" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/hackerrank.svg"></a>
+  <a href="https://www.instagram.com/deepanshu_goel_1122/"><img alt="Instagram" title="Instagram" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/instagram.svg"></a>
+  <a href="https://www.facebook.com/deepanshu.goel.1122"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/facebook.svg"></a>
+  
   
 </p>
 
