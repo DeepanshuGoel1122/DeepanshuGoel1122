@@ -25,6 +25,7 @@
   <img alt="Python" title="Python" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/python.svg">
   <img alt="Html5" title="HTML5" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/html5.svg">
   <img alt="CSS" title="CSS" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/css.svg">
+  <img alt="sass" title="sass" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/sass.svg">
   <img alt="Javascript" title="JavaScript" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/javascript.svg">
   <img alt="Bootstrap" title="Bootstrap" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/bootstrap.svg">
   <img alt="visual studio code" title="VS Code" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/vs-code.svg">
