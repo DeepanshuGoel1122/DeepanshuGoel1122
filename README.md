@@ -30,11 +30,13 @@
   <img alt="Bootstrap" title="Bootstrap" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/bootstrap.svg">
   <img alt="visual studio code" title="VS Code" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/vs-code.svg">
   <img alt="Jupyter Notebook" title="Jupyter Notebook" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/jupyter.svg">
-  <img alt="Canva" title="Canva" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/canva.svg">
+<!--   <img alt="Canva" title="Canva" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/canva.svg"> -->
   <img alt="php" title="php" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/php.svg">
   <img alt="Node js" title="Node js" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/node-js.svg">
   <img alt="Qt-designer" title="Qt Desiger" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/Qt_logo.png">
-  <img alt="Figma" title="Figma" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/figma.svg">
+<!--   <img alt="Figma" title="Figma" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/figma.svg"> -->
+  <img alt="Java" title="Java" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/java.png">
+  <img alt="Eclipse" title="Eclipse" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/eclipse.png">
 </p>
 
 ### ------------------------------------------------------------------------------
