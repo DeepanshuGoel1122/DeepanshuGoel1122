@@ -1,52 +1,95 @@
-- 👋 Hi, I’m Deepanshu Goel
-- 🌱 I’m currently learning Web Development and Python.
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-### -----------------------------------------------------------------------------
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deepanshu Goel</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
-<p><img src="https://komarev.com/ghpvc/?username=DeepanshuGoel1122" /></p>
 
-### Connect With Me :
-<p align="left">
-  <a href="https://www.linkedin.com/in/deepanshu-goel-dp/"><img alt="Linkedin" title="Linkedin" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/linkedin.svg"></a>
-  <a href="https://twitter.com/Dpdeepanshu1122"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/twitter.svg"></a>
-  <a href="https://www.hackerrank.com/deepanshugoel111"><img alt="Hackerrank" title="Hackerrank" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/hackerrank.svg"></a>
-  <a href="https://www.instagram.com/deepanshu_goel_1122/"><img alt="Instagram" title="Instagram" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/instagram.svg"></a>
-  <a href="https://www.facebook.com/deepanshu.goel.1122"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/facebook.svg"></a>
-  
-  
+## 🙋‍♂️ About Me
+
+- 🌱 I’m currently learning **Data Structures, ReactJS.**
+
+- 💡 I have a Good Knowledge of JAVA, PHP, Laravel(Backend framework), SQL and Javascript.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/DeepanshuGoel1122)**
+
+- 📫 How to reach me **deepanshugoel1122@gmail.com**
+
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+	<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/2x/express-js.png" alt="express" width="40" height="40"/> </a>
+	<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+	<a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+	<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+	<a href="https://console.cloud.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" width="48" height="48"/> </a>
+	<a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+	<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://isocpp.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    
 </p>
 
-### ------------------------------------------------------------------------------
+<br/>
 
-### Languages and Tools
-<p align="left">
-  <img alt="C" title="C" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/c.svg">
-  <img alt="CPP" title="CPP" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/cpp.svg">
-  <img alt="Python" title="Python" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/python.svg">
-  <img alt="Html5" title="HTML5" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/html5.svg">
-  <img alt="CSS" title="CSS" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/css.svg">
-  <img alt="sass" title="sass" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/sass.svg">
-  <img alt="Javascript" title="JavaScript" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/javascript.svg">
-  <img alt="Bootstrap" title="Bootstrap" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/bootstrap.svg">
-  <img alt="visual studio code" title="VS Code" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/vs-code.svg">
-  <img alt="Jupyter Notebook" title="Jupyter Notebook" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/jupyter.svg">
-<!--   <img alt="Canva" title="Canva" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/canva.svg"> -->
-  <img alt="php" title="php" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/php.svg">
-  <img alt="Node js" title="Node js" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/node-js.svg">
-  <img alt="Qt-designer" title="Qt Desiger" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/Qt_logo.png">
-<!--   <img alt="Figma" title="Figma" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/figma.svg"> -->
-  <img alt="Java" title="Java" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/java.svg">
-  <img alt="Eclipse" title="Eclipse" height="32" width="32" src="https://github.com/DeepanshuGoel1122/DeepanshuGoel1122/blob/main/assets/eclipse.svg">
+<p align="centre">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepanshuGoel1122&show_icons=true&theme=radical" alt="Deepanshu Goel's Top Languages">
 </p>
 
-### ------------------------------------------------------------------------------
 
-
-### My GitHub Stats
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api?username=DeepanshuGoel1122&show_icons=true&theme=radical" alt="DeepanshuGoel1122 GitHub Stats" /></p>
-<p><img align="centre" src="http://github-readme-streak-stats.herokuapp.com?user=DeepanshuGoel1122&theme=radical" alt="DeepanshuGoel1122 Streak" /></p>
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepanshuGoel1122&show_icons=true&theme=radical" alt="DeepanshuGoel1122 Top Languages"</p>
+<br/>
   
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>
+
+
+## 📊 My Github Stats
+
+<p align="center">
+    <img align="centre" src="https://github-readme-streak-stats.herokuapp.com?user=DeepanshuGoel1122&theme=horizon&hide_border=true" alt="Deepanshu Goel's Streak" />
+</p>
+
+<br/>
+<p align="centre">
+	<img src="https://github-readme-stats.vercel.app/api?username=DeepanshuGoel1122&show_icons=true&theme=radical" alt="DeepanshuGoel1122 GitHub Stats" />
+</p>
+	
+
+<br/>
+<br/>
+
+
+<p><img alt="Deepanshu Goel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DeepanshuGoel1122&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></p>
+
+<br/>
+<br/>
+
+
+## Connect with me:
+<p align="left">
+	<a href="https://www.linkedin.com/in/deepanshu-goel-dp/"><img alt="Linkedin" title="Linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
+	<a href="https://twitter.com/Dpdeepanshu1122"><img alt="Twitter" title="Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png"></a>
+	<a href="https://www.hackerrank.com/deepanshugoel111"><img alt="Hackerrank" title="Hackerrank" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"></a>
+	<a href="https://www.instagram.com/deepanshu_goel_1122/"><img alt="Instagram" title="Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>
+	<a href="https://www.facebook.com/deepanshu.goel.1122"><img alt="Facebook" title="Facebook" src="https://img.icons8.com/fluency/2x/facebook-new.png"></a>
+
+</p>
+
+
+## ❤ Views
+<p>
+    <img src="https://komarev.com/ghpvc/?username=DeepanshuGoel1122">
+</p>
+
 
 <!---
 DeepanshuGoel1122/DeepanshuGoel1122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
