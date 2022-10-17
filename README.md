@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures, ReactJS.**
+- 🌱 I’m currently learning **Data Structures, ReactJS**
 
-- 💡 I have a Good Knowledge of JAVA, SQL and Javascript.**
+- 💡 I have a Good Knowledge of **JAVA, SQL and Javascript**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -71,7 +71,7 @@
 <br/>
 
 
-## Connect with me:
+## 🔗 Connect with Me
 <p align="left">
 	<a href="https://www.linkedin.com/in/deepanshu-goel-dp/"><img alt="Linkedin" title="Linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
 	<a href="https://twitter.com/Dpdeepanshu1122"><img alt="Twitter" title="Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png"></a>
