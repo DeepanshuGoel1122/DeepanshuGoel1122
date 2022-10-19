@@ -84,7 +84,7 @@
 
 ## ❤ Profile Views
 <p>
-    <img src="https://komarev.com/ghpvc/?username=DeepanshuGoel1122">
+    <img src="https://komarev.com/ghpvc/?username=DeepanshuGoel1122&style=flat-square">
 </p>
 
 
